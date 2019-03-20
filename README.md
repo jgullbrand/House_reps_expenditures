@@ -1,6 +1,6 @@
 ## Data analysis & visualization - House of Representatives expenditures
 
-I analyzed expenses for members of the US House of Representatives to see how priorities adjusted during an election year (2018). As shown below, during the start of the reelection period (Q3 of 2018) the expense priorities shifted. The three categories that had the most significant increase from Q1 to Q3 were 1) Printing & Reproduction, 2) Franked Mail (mail to their constituents) and 3) Travel. This shift in priorities is due to the election year where the US House Members are focused on getting reelected for another 2 years.
+I analyzed expenses for the offices of members of the US House of Representatives to see how priorities adjusted during an election year (2018). As shown below, during the start of the reelection period (Q3 of 2018) the expense priorities shifted. The three categories that had the most significant increase from Q1 to Q3 were 1) Printing & Reproduction, 2) Franked Mail (mail to their constituents) and 3) Travel. This shift in priorities is due to the election year where the US House Members are focused on getting reelected for another 2 years.
 
 The data I used for this project is from projects.propublica.org, which is based on expenditure reports published directly from the House. I downloaded the three most current data files for 2018 (Q1-2018, Q2-2018, Q3-2018). Unfortunately, data for Q4 2018 is not yet available. It would have been helpful to have Q4 data to analyze if the trends I outlined continued through election day. 
 
