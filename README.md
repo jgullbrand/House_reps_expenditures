@@ -33,7 +33,6 @@ This table shows the how the individual expense cateogry each represent a portio
 ![Screen Shot 2019-03-20 at 9 55 03 AM](https://user-images.githubusercontent.com/40340806/54689647-55003d00-4af6-11e9-8892-2f4ef8dc0366.png)
 
 
-### Top Three Spenders - Q3 2018 (Leading up to the 2018 Midterm Elections)**
 The top 3 spenders for Quarter 3 in 2018 were Tom MacArthur, Steve Knight, Randy Hultgren. All three of these former congressman had a very tight race in their elections, but all ended up losing. These very close reelection campaigns in Q3 2018 account for the spike in expenses.
 
 ![Screen Shot 2019-03-20 at 10 15 13 AM](https://user-images.githubusercontent.com/40340806/54691380-86c6d300-4af9-11e9-9111-26c10754d38d.png)
